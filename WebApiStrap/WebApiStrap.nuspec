@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Peter Tucker</authors>
+    <owners>Peter Tucker</owners>
+    <licenseUrl>https://raw.githubusercontent.com/pjtucker/WebApiStrap/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/pjtucker/WebApiStrap</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/pjtucker/WebApiStrap/master/boot.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>webapi bootstrap</tags>
+  </metadata>
+  <files>
+    <file src="content\App_Start\*.*" target="content\App_Start" />
+    <file src="content\App_Start\Installers\*.*" target="content\App_Start\Installers" />
+  </files>
+</package>
