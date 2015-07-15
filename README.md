@@ -1,7 +1,7 @@
 WebApiStrap
 ===========
 
-Get up and running with a new ASP.Net WebAPI project quickly with this collection utilities for commonly used libraries.
+Get up and running with a new ASP.Net WebAPI project quickly with this collection commonly used libraries.
 
 #####Configure Windsor in Global.asax.cs#####
 ````
